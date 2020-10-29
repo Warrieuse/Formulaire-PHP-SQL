@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+    border: 1px solid #808080;
+    margin: 10px 25%;
+}
+
+table{
+    margin: 0px auto; /*Méthode simple pour centrer tableau*/
+}
+
+
+
